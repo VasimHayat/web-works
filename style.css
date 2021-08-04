@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-color: rgb(149, 149, 149);
+    color: #bada55;
+}
+
+button {
+    padding: 10px;
+    margin-top: 3rem;
+    background-color: #2663f1;
+    border: 1 px solid gray;
+}
